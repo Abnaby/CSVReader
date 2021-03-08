@@ -1,5 +1,5 @@
 # CSVReader
-CSV Reader File Mangment  
+CSV Reader File Management                                                                                                                             
 ![N|Solid](https://img.icons8.com/nolan/2x/csv.png)  
 This is a small and easy to use library to Read small CSV files.  
 ## Motivation  
